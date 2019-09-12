@@ -48,7 +48,7 @@
 }
 
 .snip-layout .snip-layout__main-container {
-    background: black;
+    background: #363535;
     margin-top: 5%;
     background-color: b
 }
@@ -58,6 +58,11 @@
 }
 
 .snip-layout {
-    background-color: #363535;
+    background-color: black;
+}
 
-    }
+snip-layout .snip-btn--highlight {
+    background: orange;
+    color: white;
+    border-radius: 10em;
+}
