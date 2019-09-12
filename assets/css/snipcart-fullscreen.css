@@ -61,7 +61,7 @@
     background-color: black;
 }
 
-snip-layout .snip-btn--highlight {
+.snip-layout .snip-btn--highlight {
     background: orange;
     color: white;
     border-radius: 10em;
