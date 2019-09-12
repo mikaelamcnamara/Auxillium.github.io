@@ -61,8 +61,30 @@
     background-color: black;
 }
 
-.snip-layout .snip-btn--highlight {
+.snip-layout .snip-btn--highlight a {
     background: orange;
     color: white;
     border-radius: 10em;
+}
+
+.snip-layout .snip-btn--highlight a:hover {
+    background: orange;
+    color: white;
+    border-radius: 10em;
+}
+
+#snipcart-global-notices {
+    display: none;
+}
+
+.snip-layout .snip-form__error {
+    background-color: orange;
+}
+
+.snip-layout .snip-form__error {
+    color: orange;
+}
+
+.snip-layout .snip-form__error {
+    display: none;
 }
