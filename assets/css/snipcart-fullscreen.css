@@ -3,7 +3,7 @@
 .snipcart-overwrite #snipcart-footer,
 .snipcart-overwrite #snipcart-overlay,
 .snipcart-overwrite #snipcart-overlay  {
-    background: #000;
+    background: black;
 }
 
 /* Remove the padding from the container to expend the cart */
