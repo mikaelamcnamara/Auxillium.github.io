@@ -88,3 +88,7 @@
 .snip-layout .snip-form__error {
     display: none;
 }
+@media only screen and (min-width: 48em)
+.snip-layout .snip-steps {
+    display:none;
+}
