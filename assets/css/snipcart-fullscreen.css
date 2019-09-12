@@ -39,10 +39,18 @@
     display: none;
 }
 
-#snipcart-header {
+#snipcart-header .snipcart-header {
     margin-top: : 200px;
 }
 
 #snipcart-modal {
     padding-top: 200px;
+}
+
+.snip-layout .snip-layout__main-container {
+    background: black;
+}
+
+.snip-layout .snip-footer {
+    display: none;
 }
