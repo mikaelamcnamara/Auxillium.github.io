@@ -49,8 +49,15 @@
 
 .snip-layout .snip-layout__main-container {
     background: black;
+    margin-top: 5%;
+    background-color: b
 }
 
 .snip-layout .snip-footer {
     display: none;
 }
+
+.snip-layout {
+    background-color: #363535;
+
+    }
